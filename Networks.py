@@ -1,10 +1,3 @@
-import torch.nn as nn
-import torch
-class LSTM(nn.module):
-    def __init__(self):
-        super(LSTM,self).__init__()
-    
-class InputNetwork(nn.Module):
-    def __init__(self):
-        super(InputNetwork,self).__init__()
-        
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ffaf5716feed252f368975384211a4fbb64048e3322aad5821859f39af43012
+size 230
