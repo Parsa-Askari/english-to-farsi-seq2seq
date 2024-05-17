@@ -13,3 +13,4 @@
 /wiki_preprocessed/dataset_fa filter=lfs diff=lfs merge=lfs -text
 /wiki_preprocessed/vocab_en filter=lfs diff=lfs merge=lfs -text
 /wiki_preprocessed/vocab_fa filter=lfs diff=lfs merge=lfs -text
+*. filter=lfs diff=lfs merge=lfs -text
